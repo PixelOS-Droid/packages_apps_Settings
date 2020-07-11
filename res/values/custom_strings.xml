@@ -12,6 +12,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Status bar Icon Manager -->
+    <string name="status_bar_icons_manager_title">Status bar icons</string>
+    <string name="status_bar_icons_manager_title_summary">Control visibility of status bar icons</string>
+
     <!-- General -->
     <string name="copied_to_clipboard">Copied to clipboard</string>
     <string name="longpress_to_clipboard">Long-press to copy</string>
