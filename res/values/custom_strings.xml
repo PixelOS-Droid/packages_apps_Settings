@@ -294,6 +294,6 @@
     <string name="game_space_summary">Enhance your gaming experience</string>
 
     <!-- Hardware info -->
-    <string name="platform_revision">Platform</string>
+    <string name="soc_model">SoC Model</string>
     <string name="total_ram">Total RAM</string>
 </resources>
