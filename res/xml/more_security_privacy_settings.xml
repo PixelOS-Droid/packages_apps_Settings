@@ -93,6 +93,25 @@
             settings:controller=
                 "com.android.settings.sound.MediaControlsLockScreenPreferenceController" />
 
+        <!-- Show Privacy Indicator -->
+        <com.android.settings.custom.preference.SecureSettingSwitchPreference
+            android:key="enable_camera_privacy_indicator"
+            android:title="@string/mic_camera_privacy_indicator_title"
+            android:summary="@string/mic_camera_privacy_indicator_summary"
+            android:defaultValue="true" />
+
+        <com.android.settings.custom.preference.SecureSettingSwitchPreference
+            android:key="enable_location_privacy_indicator"
+            android:title="@string/location_privacy_indicator_title"
+            android:summary="@string/location_privacy_indicator_summary"
+            android:defaultValue="true" />
+
+        <com.android.settings.custom.preference.SecureSettingSwitchPreference
+            android:key="enable_projection_privacy_indicator"
+            android:title="@string/projection_privacy_indicator_title"
+            android:summary="@string/projection_privacy_indicator_summary"
+            android:defaultValue="true" />
+
         <!-- Content Capture -->
         <!-- NOTE: content capture has a different preference, depending whether or not the
              ContentCaptureService implementations defines a custom settings activitiy on its manifest.
