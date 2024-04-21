@@ -266,12 +266,6 @@
     <string name="system_black_theme_title">Use Black theme</string>
     <string name="system_black_theme_summary">Force black background colors</string>
 
-    <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">Show Ambient</string>
-    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
-    <string name="gesture_wake_ambient">Show Ambient</string>
-    <string name="gesture_wake">Fully wake</string>
-
     <!-- Lock screen pattern size -->
     <string name="lock_pattern_size_3" translatable="false">3 \u00d7 3</string>
     <string name="lock_pattern_size_4" translatable="false">4 \u00d7 4</string>
