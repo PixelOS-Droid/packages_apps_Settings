@@ -11,8 +11,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Status bar Icon Manager -->
+    <string name="status_bar_icons_manager_title">状态栏图标</string>
+    <string name="status_bar_icons_manager_title_summary">控制状态栏图标的可见性</string>
+    <!-- Privacy Indicator -->
+    <string name="mic_camera_privacy_indicator_title">麦克风和相机隐私指示器</string>
+    <string name="mic_camera_privacy_indicator_summary">当应用程序使用麦克风或摄像头时显示指示器</string>
+    <string name="location_privacy_indicator_title">位置隐私指示器</string>
+    <string name="location_privacy_indicator_summary">当应用程序使用位置时显示指示器</string>
+    <string name="projection_privacy_indicator_title">媒体投影隐私指示器</string>
+    <string name="projection_privacy_indicator_summary">当设备屏幕投影时显示指示器</string>
     <!-- General -->
-    <string name="copied_to_clipboard">已复制到剪贴</string>
+    <string name="copied_to_clipboard">已复制到剪贴板</string>
     <string name="longpress_to_clipboard">长按复制</string>
     <!-- Radio Info -->
     <string name="radio_info_title">广播信息</string>
@@ -243,4 +253,12 @@
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">媒体播放控制</string>
     <string name="volume_button_music_control_summary">屏幕关闭时，长按音量键将跳过音乐曲目</string>
+    <!-- Game Space -->
+    <string name="game_space_title">游戏空间</string>
+    <string name="game_space_summary">提升您的游戏体验</string>
+    <!-- Hardware info -->
+    <string name="soc_model">处理器</string>
+    <string name="total_ram">总内存</string>
+    <string name="device_manufacturer">制造商</string>
+    <string name="device_codename">设备</string>
 </resources>
